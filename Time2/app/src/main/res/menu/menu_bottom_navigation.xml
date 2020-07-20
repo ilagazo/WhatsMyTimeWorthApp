@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Dashboard -->
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        android:title="@string/dashboard" />
+
+    <!-- Goal -->
+    <item
+        android:id="@+id/navigation_goal"
+        android:icon="@drawable/ic_baseline_add_circle_outline_24"
+        android:title="@string/goal"/>
+
+    <!-- User Settings -->
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="@string/settings"/>
+
+</menu>

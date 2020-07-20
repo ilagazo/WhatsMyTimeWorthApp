@@ -1,0 +1,67 @@
+<resources>
+    <!-- Random String Labels -->
+    <string name="app_name">What\'s My Time Worth</string>
+    <string name="logoDescription">What\'s My Time Worth Logo</string>
+    <string name="logo">Logo</string>
+
+    <!-- Main Activity Labels -->
+    <string name="login_email">Email . .</string>
+    <string name="login_password">Password . .</string>
+    <string name="new_here_create_an_account">New Here? Create an Account</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+
+    <!-- Goal Labels -->
+    <string name="title">Add a Goal!</string>
+    <string name="goal_title">Title of Goal . .</string>
+    <string name="goal_titleLabel">Title</string>
+    <string name="goal_costLabel">Cost</string>
+    <string name="goal_cost">Total Cost of Goal . .</string>
+    <string name="goal_add">Add Goal</string>
+    <string name="goal_instructions">Add a New Goal</string>
+
+    <!-- Dashboard Labels -->
+    <string name="dashboard_welcome">Welcome to the Dashboard!</string>
+    <string name="dashboard_description">Goal Summary</string>
+    <string name="dashboard_goalTitle">Goal:</string>
+    <string name="dashboard_goalCost">Goal Cost:</string>
+    <string name="dashboard_time">Days Left to Reach Goal</string>
+
+    <!-- Notification Labels -->
+    <string name="notification_buttonLabel">Edit Notifications</string>
+    <string name="notification_title">Customize Your Notifications</string>
+    <string name="notification_instructions1">When would you like to be reminded?</string>
+    <string name="notification_instructions2">Enter the following information in Military Time</string>
+    <string name="notification_toggle">Enable Notifications:</string>
+    <string name="notification_hourLabel">Hour:</string>
+    <string name="notification_minuteLabel">Minutes:</string>
+    <string name="notification_save">Save Notification Settings</string>
+    <string name="notification_min_hint">0060</string>
+    <string name="notification_hr_hint">2400</string>
+
+    <!-- Profile Settings -->
+    <string name="profile_settings">Profile Settings:</string>
+    <string name="tap_on_the_image_to_choose_profile_picture">Tap on the image to choose profile picture</string>
+    <string name="enter_display_name">Enter Display Name</string>
+    <string name="display_name">Display Name</string>
+    <string name="monthly_income">Monthly Income</string>
+    <string name="Dollar_Sign">$ . .</string>
+    <string name="save">Save</string>
+    <string name="logout">Logout</string>
+    <string name="Percentage">% . .</string>
+    <string name="percentage_of_income_to_save_each_month">Percentage of Income to save each month</string>
+    <string name="add_image_button">Add Image Button</string>
+
+    <!-- Bottom Navigation -->
+    <string name="dashboard">Dashboard</string>
+    <string name="goal">Goal</string>
+    <string name="settings">Settings</string>
+
+    <!-- Sign Up Activity -->
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_click_here">Already Have an Account? Click here.</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="todo">TODO</string>
+
+</resources>
